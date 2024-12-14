@@ -6,6 +6,7 @@ function App() {
 
   return (
     <>
+    <h1>Counting</h1>
       <button onClick={increasePopulation}>increase</button>
       <ShowCount />
     </>
